@@ -1,0 +1,274 @@
+{
+  "issues": [
+    {
+      "id": 1,
+      "title": "Eliminar tarea",
+      "description": "Eliminar tarea",
+      "asignated": "Nilo",
+      "priority": "MEDIA",
+      "blocked": null,
+      "todoDate": "8 abr 2023, 18:36",
+      "inProgressDate": "8 abr 2023, 18:36",
+      "doneDate": "8 abr 2023, 18:36",
+      "state": "TERMINADO"
+    },
+    {
+      "id": 2,
+      "title": "Cambiar estados",
+      "description": "Cambiar estados",
+      "asignated": "Nilo",
+      "priority": "MEDIA",
+      "blocked": null,
+      "todoDate": "8 abr 2023, 18:37",
+      "inProgressDate": "8 abr 2023, 18:37",
+      "doneDate": "8 abr 2023, 18:37",
+      "state": "TERMINADO"
+    },
+    {
+      "id": 3,
+      "title": "Editar tarea",
+      "description": "Editar tarea",
+      "asignated": "Nilo",
+      "priority": "MEDIA",
+      "blocked": null,
+      "todoDate": "8 abr 2023, 16:12",
+      "inProgressDate": "8 abr 2023, 18:37",
+      "doneDate": null,
+      "state": "EN PROGRESO"
+    },
+    {
+      "id": 4,
+      "title": "Crear tarea",
+      "description": "Crear tarea",
+      "asignated": "Nilo",
+      "priority": "MEDIA",
+      "blocked": null,
+      "todoDate": "8 abr 2023, 18:37",
+      "inProgressDate": "8 abr 2023, 18:39",
+      "doneDate": "8 abr 2023, 18:43",
+      "state": "TERMINADO"
+    },
+    {
+      "id": 5,
+      "title": "Agregar comentarios",
+      "description": "Agregar comentarios",
+      "asignated": "Nilo",
+      "priority": "BAJA",
+      "blocked": null,
+      "todoDate": "8 abr 2023, 16:12",
+      "inProgressDate": null,
+      "doneDate": null,
+      "state": "PENDIENTE"
+    },
+    {
+      "id": 6,
+      "title": "Mostrar tareas en kanban",
+      "description": "Mostrar tareas en kanban",
+      "asignated": "Nilo",
+      "priority": "BAJA",
+      "blocked": null,
+      "todoDate": "8 abr 2023, 18:37",
+      "inProgressDate": "8 abr 2023, 18:37",
+      "doneDate": "8 abr 2023, 18:37",
+      "state": "TERMINADO"
+    },
+    {
+      "id": 8,
+      "title": "Planificar app checklist",
+      "description": "Planificar app checklist",
+      "asignated": "Nilo",
+      "priority": "BAJA",
+      "blocked": null,
+      "todoDate": "8 abr 2023, 16:12",
+      "inProgressDate": null,
+      "doneDate": null,
+      "state": "PENDIENTE"
+    },
+    {
+      "issueNew": {
+        "title": "deploy",
+        "description": "deploy",
+        "asignated": "Nilo",
+        "priority": "BAJA",
+        "blocked": null,
+        "todoDate": "2023-04-08T04:36:49.776Z",
+        "inProgressDate": null,
+        "doneDate": null,
+        "state": "PENDIENTE",
+        "id": "b98d3b60-1a3b-4163-9eff-651a5b82bce9"
+      },
+      "id": 9
+    },
+    {
+      "issueNew": {
+        "title": "deploy",
+        "description": "deploy",
+        "asignated": "Nilo",
+        "priority": "BAJA",
+        "blocked": null,
+        "todoDate": "2023-04-08T04:40:47.421Z",
+        "inProgressDate": null,
+        "doneDate": null,
+        "state": "PENDIENTE",
+        "id": "a92e5c32-1f1b-46b7-ae26-720ee3a4d636"
+      },
+      "id": 10
+    },
+    {
+      "id": "ecf2b00a-f66a-4a45-b82a-8f670204e06d",
+      "title": "Estilar formulario",
+      "description": "Estilar formulario",
+      "asignated": "Nilo",
+      "priority": "BAJA",
+      "blocked": null,
+      "todoDate": "8 abr 2023, 16:12",
+      "inProgressDate": "8 abr 2023, 18:43",
+      "doneDate": "8 abr 2023, 20:27",
+      "state": "TERMINADO"
+    },
+    {
+      "id": "c5447b5a-c3b5-4090-98dd-6fb51ffb8cdf",
+      "title": "Búsqueda de tareas",
+      "description": "Panel de tareas con búsqueda por id, titulo, responsable, estado",
+      "asignated": "Nilo",
+      "priority": "BAJA",
+      "blocked": null,
+      "todoDate": "8 abr 2023, 18:38",
+      "inProgressDate": null,
+      "doneDate": null,
+      "state": "PENDIENTE"
+    },
+    {
+      "id": "8269cf76-7e87-4a28-a832-4596a87b9d20",
+      "title": "resetear formulario",
+      "description": "resetear formulario luego del envio",
+      "asignated": "Nilo",
+      "priority": "BAJA",
+      "blocked": null,
+      "todoDate": "8 abr 2023, 18:38",
+      "inProgressDate": "8 abr 2023, 18:38",
+      "doneDate": "8 abr 2023, 18:38",
+      "state": "TERMINADO"
+    },
+    {
+      "id": "34c0826b-f203-4331-be3b-d2175d8f801e",
+      "title": "Formatear fecha",
+      "description": "Formatear fecha en la tarea",
+      "asignated": "Nilo",
+      "priority": "BAJA",
+      "blocked": null,
+      "todoDate": "8 abr 2023, 18:38",
+      "inProgressDate": "8 abr 2023, 18:38",
+      "doneDate": "8 abr 2023, 18:38",
+      "state": "TERMINADO"
+    },
+    {
+      "id": "f7478408-e984-41bd-b7d7-d401018a2f27",
+      "title": "prioridad en ingles",
+      "description": "cambiar la propiedad prioridad por priority",
+      "asignated": "Nilo",
+      "priority": "BAJA",
+      "blocked": null,
+      "todoDate": "8 abr 2023, 18:38",
+      "inProgressDate": "8 abr 2023, 18:38",
+      "doneDate": "8 abr 2023, 18:38",
+      "state": "TERMINADO"
+    },
+    {
+      "id": "1b286ed4-a8c4-4069-b445-2278bcd38825",
+      "title": "nueva tarea - refresh kanban",
+      "description": "refrescar kanban al agregar nueva tarea",
+      "asignated": "Nilo",
+      "priority": "BAJA",
+      "blocked": null,
+      "todoDate": "8 abr 2023, 16:55",
+      "inProgressDate": "8 abr 2023, 17:07",
+      "doneDate": "8 abr 2023, 17:07",
+      "state": "TERMINADO"
+    },
+    {
+      "id": "793ead3f-8d89-457f-9876-8ca3cbc442f1",
+      "title": "refresh cambio estado",
+      "description": "refrescar kanban con cambio de estado",
+      "asignated": "Nilo",
+      "priority": "BAJA",
+      "blocked": null,
+      "todoDate": "8 abr 2023, 16:54",
+      "inProgressDate": "8 abr 2023, 17:07",
+      "doneDate": "8 abr 2023, 17:07",
+      "state": "TERMINADO"
+    },
+    {
+      "id": "bd94aa63-cf13-4e08-86b6-7a15e05f8e40",
+      "title": "mayusculas titulo tarea",
+      "description": "poner en mayusculas el titulo de las tareas",
+      "asignated": "Nilo",
+      "priority": "BAJA",
+      "blocked": null,
+      "todoDate": "8 abr 2023, 18:33",
+      "inProgressDate": "8 abr 2023, 18:42",
+      "doneDate": "8 abr 2023, 18:43",
+      "state": "TERMINADO"
+    },
+    {
+      "id": "680cce34-6af7-4bcf-bece-b0ed14660d8c",
+      "title": "Validar formulario",
+      "description": "Validar formulario",
+      "asignated": "Nilo",
+      "priority": "BAJA",
+      "blocked": null,
+      "todoDate": "8 abr 2023, 20:06",
+      "inProgressDate": "8 abr 2023, 20:07",
+      "doneDate": "8 abr 2023, 20:27",
+      "state": "TERMINADO"
+    },
+    {
+      "id": "047a8153-8125-48c1-b596-b30f041383a2",
+      "title": "Ordenar terminados ",
+      "description": "Ordenar terminados por fecha de terminado",
+      "asignated": "Nilo",
+      "priority": "BAJA",
+      "blocked": null,
+      "todoDate": "8 abr 2023, 20:25",
+      "inProgressDate": null,
+      "doneDate": null,
+      "state": "PENDIENTE"
+    },
+    {
+      "id": "de01dac3-34ad-44da-8ee0-ee63ae3aff7e",
+      "title": "Tarea de prueba",
+      "description": "Tarea de prueba",
+      "asignated": "Nilo",
+      "priority": "BAJA",
+      "blocked": "Con bloqueo de prueba",
+      "todoDate": "8 abr 2023, 20:36",
+      "inProgressDate": null,
+      "doneDate": null,
+      "state": "PENDIENTE"
+    }
+  ],
+  "checklist": [
+    {
+      "id": 1,
+      "titulo": "Regenerar pbd",
+      "fecha": "06/04/2023",
+      "pasos": [
+        "copiar exe",
+        "backup exe",
+        "backup pbd y pbl",
+        "regenerar pbd",
+        "reemplazar pbd y pbl en exe",
+        "reemplazar pbl en test"
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "id_isssue": "ecf2b00a-f66a-4a45-b82a-8f670204e06d",
+      "id_usuario": 1,
+      "commentDate": "08/04/2023 17:58",
+      "comment": "Que el background no abarque todo el alto"
+    }
+  ]  
+}
